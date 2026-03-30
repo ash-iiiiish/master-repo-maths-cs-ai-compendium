@@ -41,23 +41,23 @@ A newborn's brain is a newly initialised neural network, which trains from realw
 
 Now Kvashchev's experiment was a long-term Serbian study demonstrating that intensive, three-year training in creative problem-solving can significantly boost intelligence, particularly fluid intelligence, adding 10-15 IQ points. There is such a thing as having a natuarally high IQ, similar to how quality weight initialisations yield better training, evidenced by nature-vs-nurture experimental findings. 
 
-However, the only advantage a high-IQ individual really has is the ability to learn/recognise patterns faster. But using a repeated pattern makes any concept absolutely learnable if you feel you've got an average IQ. Charles Darwin was considered a very average, if not below-average, student by his teachers and father. He described himself as not being quick-witted, feeling like a "slow processor" who needed time to soak in data.
+However, the only advantage a high-IQ individual really has is the ability to learn/recognise patterns faster. But using a repeated pattern makes any concept absolutely learnable. Charles Darwin was considered a very average, if not below-average, student by his teachers and father. He described himself as not being quick-witted, feeling like a "slow processor" who needed time to soak in data.
 
-Between 3-10yrs, I perfomred really well academically, naturally grasping concepts without ever taking notes or revising. I got a bit cocky between 11-13, I dropped to the bottom half of an 80-student class with this technique. Now between 14-15, I began reading like a normal student, finishing 1st in my final secondary school semester. Early school curriclum works well with natural IQ but real-world talents are driven by quality knowledge consumption and execution intensity. 
+Between 3-10yrs, I performed well academically, naturally grasping concepts without ever taking notes or revising. I got a bit cocky between 11-13 and dropped to the bottom half of an 80-student class with this technique. Now between 14-15, I began reading like a normal student, finishing 1st in my final secondary school semester. Early school curriculum works well with natural IQ but real-world talents are powered by quality knowledge consumption and execution intensity. 
 
-In fact, most students who perform well academically are just more studious, but the academic system is designed for fast learners. This compendium is provides rounded and well-connected flow of knowledge to facilitate better learning for the Darwins of the world. You only need elementary maths and basic python programming, everything else is picked up, just read and trust the process! 
+In fact, most students who perform well academically are just more studious, but the academic system is designed for fast learners. This compendium provides a rounded and well-connected flow of knowledge to facilitate better learning for the Darwins of the world. You only need elementary maths and basic python programming, everything else is picked up, just read and trust the process! 
 
 ## How To Study Better 
 
 First semester at university, I took 17 modules at once, grades were not great for it, so I used a technique:
 
 **Phase 1**: Cumulative reading after classes 
-Read every class slide and note same day. The next class, start all over up until the latest addition, repeat every time until the last class. Your brain will naturally connect the dots, build rich and lasting intuition, compared to stress-reading. Use the same cumulative pattern with this book.  
+Read each slide/note title/headers only, close the book, then visualise and write an explanation for that concept. Only re-read what you missed, similar to masked-language modeling in machine learning. After the re-read, ultimately implement the concept in code after. You develop muscle memory for each concept.  
 
 **Phase 2**: Shadow reading before exams 
 Read each slide/note subtitle, close the book, then visualise and write an explanation for that concept. Only re-read what you missed, similar to masked-language modelling in machine learning. After the re-read, ultimately implement the concept in code after. You develop muscle memory for each concept. 
 
-This worked really well for my friends who were not very confident. In fact, one of these friends beat me in advanced engineering mathematics modeule, where we covered Hessians and Optimisation. She works at a big oil & gas firm today. The willingness of the soul matter more than the body we are working with (Rosenthal experiment). 
+This worked really well for my friends who were not very confident. In fact, one of these friends beat me in advanced engineering mathematics modeule, where we covered Hessians and Optimisation. She works at a big oil & gas firm today. The willingness of the soul matters more than the body we are working with (Rosenthal experiment).
 
 ## Who is Henry Ndubuaku?
 
