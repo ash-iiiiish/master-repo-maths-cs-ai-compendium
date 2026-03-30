@@ -1,2 +1,4 @@
 site/
 docs/
+mcp/node_modules/
+mcp/package-lock.json
