@@ -59,17 +59,3 @@ Read each slide/note subtitle, close the book, then visualise and write an expla
 
 This worked really well for my friends who were not very confident. In fact, one of these friends beat me in advanced engineering mathematics modeule, where we covered Hessians and Optimisation. She works at a big oil & gas firm today. The willingness of the soul matters more than the body we are working with (Rosenthal experiment).
 
-## Who is Henry Ndubuaku?
-
-Read the GitHub profile! 
-
-## Citation
-```bibtex
-@book{ndubuaku2025compendium,
-  title     = {Maths, CS & AI Compendium},
-  author    = {Henry Ndubuaku},
-  year      = {2026},
-  publisher = {GitHub},
-  url       = {https://github.com/HenryNdubuaku/maths-cs-ai-compendium}
-}
-```
