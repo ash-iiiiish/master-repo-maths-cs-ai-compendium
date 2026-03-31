@@ -1,4 +1,4 @@
-# Maths, CS & AI Compendium
+# Master Repo for : Maths, CS & AI Compendium:
 
 <img src="images/logo.png" alt="Logo" style="border-radius: 30px; width: 100%;">
 
